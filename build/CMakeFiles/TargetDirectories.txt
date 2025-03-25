@@ -1,0 +1,3 @@
+/home/mateusz/Documents/mateusz-czarnecki/inne/cpp/chess_project/build/CMakeFiles/chess_game.dir
+/home/mateusz/Documents/mateusz-czarnecki/inne/cpp/chess_project/build/CMakeFiles/edit_cache.dir
+/home/mateusz/Documents/mateusz-czarnecki/inne/cpp/chess_project/build/CMakeFiles/rebuild_cache.dir
